@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyz
+*.pyw
+*.pyo
+*.pyc
+
+# Virtual Environment
+venv/
+.env/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
